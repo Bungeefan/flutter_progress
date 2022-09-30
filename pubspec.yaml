@@ -1,6 +1,6 @@
 name: flutter_progress
 description: Highly customizable and light weight progress library including dynamic updates
-homepage: https://github.com/Bungeefan/flutter_progress
+repository: https://github.com/Bungeefan/flutter_progress
 version: 1.0.0
 
 environment:
