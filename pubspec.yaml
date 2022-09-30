@@ -1,6 +1,5 @@
 name: flutter_progress
 description: Highly customizable and light weight progress library including dynamic updates
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 homepage: https://github.com/Bungeefan/flutter_progress
 version: 1.0.0
 
